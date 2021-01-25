@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Sens rentrant : aménagement séparé mais régulièrement interrompu",
+        "state": "unsatisfying",
+        "bidir": "no",
+        "temporary": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3136520385742188,
+            48.89425019694004
+          ],
+          [
+            2.325367927551269,
+            48.88754874941472
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Sens sortant : apaisement du trafic",
+        "state": "satisfying",
+        "temporary": "no",
+        "bidir": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3254966735839844,
+            48.88764751410974
+          ],
+          [
+            2.313973903656006,
+            48.89427841166228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Bidirectionnelle centrale",
+        "state": "satisfying",
+        "bidir": "yes",
+        "temporary": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.328929901123047,
+            48.89748067916391
+          ],
+          [
+            2.325561046600342,
+            48.88750642162857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Bidirectionnelle centrale",
+        "bidir": "yes",
+        "temporary": "yes",
+        "state": "satisfying"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3255503177642822,
+            48.88753464015666
+          ],
+          [
+            2.3273313045501705,
+            48.88371793966142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Anneau intérieur aménagé",
+        "bidir": "no",
+        "temporary": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3273420333862305,
+            48.883675608632636
+          ],
+          [
+            2.3271703720092773,
+            48.88357683609285
+          ],
+          [
+            2.3271918296813965,
+            48.88331579344144
+          ],
+          [
+            2.3276638984680176,
+            48.88342162170758
+          ],
+          [
+            2.3276209831237793,
+            48.88368971897957
+          ],
+          [
+            2.3273443803191185,
+            48.88367604958105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "v13",
+        "description": "Apaisement du trafic",
+        "temporary": "yes",
+        "bidir": "yes",
+        "state": "satisfying"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3271918296813965,
+            48.88331579344144
+          ],
+          [
+            2.3268646001815796,
+            48.87596370844299
+          ],
+          [
+            2.3267948627471924,
+            48.87573790753914
+          ],
+          [
+            2.3266875743865967,
+            48.87561442223878
+          ]
+        ]
+      }
+    }
+  ]
+}
