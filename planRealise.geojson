@@ -11,7 +11,8 @@
         "description": "Sens rentrant : aménagement séparé mais régulièrement interrompu",
         "state": "unsatisfying",
         "bidir": "no",
-        "temporary": "no"
+        "temporary": "no",
+        "old": "yes"
       },
       "geometry": {
         "type": "LineString",
@@ -37,7 +38,8 @@
         "description": "Sens sortant : apaisement du trafic",
         "state": "satisfying",
         "temporary": "no",
-        "bidir": "no"
+        "bidir": "no",
+        "old": "no"
       },
       "geometry": {
         "type": "LineString",
@@ -63,7 +65,8 @@
         "description": "Bidirectionnelle centrale",
         "state": "satisfying",
         "bidir": "yes",
-        "temporary": "yes"
+        "temporary": "yes",
+        "old": "no"
       },
       "geometry": {
         "type": "LineString",
@@ -89,7 +92,8 @@
         "description": "Bidirectionnelle centrale",
         "bidir": "yes",
         "temporary": "yes",
-        "state": "satisfying"
+        "state": "satisfying",
+        "old": "no"
       },
       "geometry": {
         "type": "LineString",
@@ -114,7 +118,8 @@
         "line": "v13",
         "description": "Anneau intérieur aménagé",
         "bidir": "no",
-        "temporary": "yes"
+        "temporary": "yes",
+        "old": "no"
       },
       "geometry": {
         "type": "LineString",
@@ -156,7 +161,8 @@
         "description": "Apaisement du trafic",
         "temporary": "yes",
         "bidir": "yes",
-        "state": "satisfying"
+        "state": "satisfying",
+        "old": "no"
       },
       "geometry": {
         "type": "LineString",
