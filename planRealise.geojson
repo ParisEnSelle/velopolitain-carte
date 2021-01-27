@@ -185,6 +185,45 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "line": "c2",
+        "description": "Piste sur trottoir étroite et mal distinguée de l'espace piéton, conflits réguliers",
+        "temporary": "no",
+        "bidir": "yes",
+        "state": "unsatisfying",
+        "old": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3396265506744385,
+            48.88204583678031
+          ],
+          [
+            2.3370516300201416,
+            48.88247621459455
+          ],
+          [
+            2.332684993743896,
+            48.883760270654356
+          ],
+          [
+            2.3294878005981445,
+            48.88455749766293
+          ],
+          [
+            2.328125238418579,
+            48.8837320499964
+          ]
+        ]
+      }
     }
   ]
 }
